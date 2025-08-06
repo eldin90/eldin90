@@ -6,4 +6,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldin90&theme=redical&hide_border=true" alt="Contribution Graph" width="100%"/>
   <br>
   <img src="https://github-readme-stats-omega-gray-64.vercel.app/api/top-langs/?username=eldin90&layout=compact&langs_count=14&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/eldin90/eldin90/output/github-snake-dark.svg" alt="Snek" width="100%"/>
 </p>
