@@ -16,7 +16,7 @@
 	<br />
 	<img src="https://github-readme-stats-master-eta.vercel.app/api/top-langs/?username=eldin90&layout=compact&langs_count=20&theme=radical&hide_border=true&" alt="Top Languages" width="100%" />
 	<br />
-	<img src="https://raw.githubusercontent.com/eldin90/eldin90/output/github-snake-dark.svg" alt="Snek" width="100%" />
-	<br />
 	<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Joke" width="100%" />
+	<img src="https://github.com/eldin90/eldin90/blob/main/SS.gif?raw=true" alt="SS" width="100%" />
+	<img src="https://raw.githubusercontent.com/eldin90/eldin90/output/github-snake-dark.svg" alt="Snek" width="100%" />
 </p>
