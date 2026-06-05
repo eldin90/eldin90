@@ -20,3 +20,53 @@
 	<img src="https://github.com/eldin90/eldin90/blob/main/SS.gif?raw=true" alt="SS" width="100%" />
 	<img src="https://raw.githubusercontent.com/eldin90/eldin90/output/github-snake-dark.svg" alt="Snek" width="100%" />
 </p>
+
+Machine-readable stats: [`stats.json`](./stats.json)
+
+<!-- STATS-START -->
+<!--
+{
+  "username": "eldin90",
+  "note": "These statistics include both public and private repositories.",
+  "updated_at": "2026-06-05T22:55:07+00:00",
+  "total_contributions": 83547,
+  "total_contributions_range": "2015-07-17 - Present",
+  "current_streak": 72,
+  "current_streak_range": null,
+  "longest_streak": 362,
+  "longest_streak_range": "2025-03-28 -",
+  "rank": "A+",
+  "total_stars_earned": 718,
+  "total_commits_last_year": 12292,
+  "total_prs": 1253,
+  "total_prs_merged": 1248,
+  "merged_prs_percentage": 99.6,
+  "total_issues": 182,
+  "discussions_started": 5,
+  "discussions_answered": 73,
+  "contributed_to_last_year": 23,
+  "languages": {
+    "HTML": 24.86,
+    "JavaScript": 14.09,
+    "C": 14.04,
+    "Kotlin": 7.9,
+    "PHP": 7.74,
+    "C++": 6.36,
+    "CSS": 5.56,
+    "Batchfile": 4.65,
+    "Shell": 4.57,
+    "Java": 3.74,
+    "TypeScript": 1.69,
+    "Rust": 1.52,
+    "C#": 1.31,
+    "Python": 1.16,
+    "Groovy": 0.62,
+    "TeX": 0.13,
+    "PowerShell": 0.02,
+    "EJS": 0.02,
+    "Dockerfile": 0.01,
+    "Nix": 0.0
+  }
+}
+-->
+<!-- STATS-END -->
