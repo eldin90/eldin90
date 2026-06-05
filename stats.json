@@ -1,7 +1,15 @@
 {
   "username": "eldin90",
-  "note": "These statistics include both public and private repositories.",
-  "updated_at": "2026-06-05T22:55:07+00:00",
+  "full_name": "Eldin Turkic",
+  "links": {
+    "website": "https://eldin.ba",
+    "about_me": "https://en.eldin.ba",
+    "certificates": "https://certs.eldin.ba",
+    "github_profile": "https://github.com/eldin90",
+    "github_organization": "https://github.com/Eldin-Turkic"
+  },
+  "note": "Most of my GitHub repositories are private, as they contain personal projects, freelance work, experimental ideas, educational material, or software built for companies that cannot be publicly released. However, all activity graphs and stats reflect contributions from both public and private repositories, as I’ve enabled full access for GitHub insights.",
+  "updated_at": "2026-06-05T23:23:29+00:00",
   "total_contributions": 83547,
   "total_contributions_range": "2015-07-17 - Present",
   "current_streak": 72,
