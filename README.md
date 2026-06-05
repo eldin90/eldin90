@@ -1,11 +1,11 @@
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&repeat=false&size=32&duration=5000&color=FE428E&background=141321FF&center=true&multiline=true&lines=Eldin+Turkic" alt="Eldin Turkic" width="100%" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&repeat=false&size=32&duration=1000&color=FE428E&background=141321FF&center=true&multiline=true&lines=Eldin+Turkic" alt="Eldin Turkic" width="100%" /></a>
 	<br />
 	<a href="https://git.io/typing-svg">
 		<img
-			src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=12&duration=250&color=A9FEF7&background=141321&center=true&multiline=true&repeat=false&height=165&lines=Most+of+my+GitHub+repositories+are+private%2C;+as+they+contain+personal+projects%2C+freelance+work%2C;+experimental+ideas%2C+or+educational+material;+that+isn't+intended+for+public+release.;%20;However%2C+all+activity+graphs+and+stats;+reflect+contributions+from+both+public+;and+private+repositories%2C+as+I%E2%80%99ve+enabled;+full+access+for+GitHub+insights."
-			alt="info"
-			width="100%" />
+	src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=12&duration=500&color=A9FEF7&background=141321&center=true&multiline=true&repeat=false&height=165&lines=Most+of+my+GitHub+repositories+are+private%2C;as+they+contain+personal+projects%2C+freelance+work%2C;experimental+ideas%2C+educational+material%2C+or+software+built;for+companies+that+cannot+be+publicly+released.;;However%2C+all+activity+graphs+and+stats+reflect;contributions+from+both+public+and+private+repositories%2C;as+I%E2%80%99ve+enabled+full+access+for+GitHub+insights."
+	alt="Most of my GitHub repositories are private, as they contain personal projects, freelance work, experimental ideas, educational material, or software built for companies that cannot be publicly released. However, all activity graphs and stats reflect contributions from both public and private repositories, as I’ve enabled full access for GitHub insights."
+	width="100%" />
 	</a>
 	<br />
 	<img src="https://github-readme-stats-master-eta.vercel.app/api?username=eldin90&count_private=true&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&theme=radical&hide_border=true&text_bold" alt="GitHub Stats" width="100%" />
