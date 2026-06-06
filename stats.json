@@ -9,8 +9,8 @@
     "github_organization": "https://github.com/Eldin-Turkic"
   },
   "note": "Most of my GitHub repositories are private, as they contain personal projects, freelance work, experimental ideas, educational material, or software built for companies that cannot be publicly released. However, all activity graphs and stats reflect contributions from both public and private repositories, as I’ve enabled full access for GitHub insights.",
-  "updated_at": "2026-06-05T23:29:21+00:00",
-  "total_contributions": 83555,
+  "updated_at": "2026-06-06T03:01:08+00:00",
+  "total_contributions": 83627,
   "total_contributions_range": "2015-07-17 - Present",
   "current_streak": 73,
   "current_streak_range": null,
@@ -18,7 +18,7 @@
   "longest_streak_range": "2025-03-28 -",
   "rank": "A+",
   "total_stars_earned": 718,
-  "total_commits_last_year": 12299,
+  "total_commits_last_year": 12371,
   "total_prs": 1253,
   "total_prs_merged": 1248,
   "merged_prs_percentage": 99.6,
@@ -29,7 +29,7 @@
   "languages": {
     "HTML": 24.85,
     "JavaScript": 14.09,
-    "C": 14.04,
+    "C": 14.03,
     "Kotlin": 7.9,
     "PHP": 7.74,
     "C++": 6.35,
