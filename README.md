@@ -36,10 +36,10 @@ Machine-readable stats: [`stats.json`](./stats.json)
     "github_organization": "https://github.com/Eldin-Turkic"
   },
   "note": "Most of my GitHub repositories are private, as they contain personal projects, freelance work, experimental ideas, educational material, or software built for companies that cannot be publicly released. However, all activity graphs and stats reflect contributions from both public and private repositories, as I’ve enabled full access for GitHub insights.",
-  "updated_at": "2026-07-20T05:28:09+00:00",
-  "total_contributions": 85407,
+  "updated_at": "2026-07-21T04:56:58+00:00",
+  "total_contributions": 85477,
   "total_contributions_range": "2015-07-17 - Present",
-  "current_streak": 117,
+  "current_streak": 118,
   "current_streak_range": null,
   "longest_streak": 362,
   "longest_streak_range": "2025-03-28 -",
@@ -55,7 +55,7 @@ Machine-readable stats: [`stats.json`](./stats.json)
   "contributed_to_last_year": null,
   "languages": {
     "HTML": 25.14,
-    "JavaScript": 14.04,
+    "JavaScript": 14.03,
     "C": 13.98,
     "Kotlin": 7.87,
     "PHP": 7.71,
